@@ -1,0 +1,365 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.img1 {
+  object-fit: cover;
+  width: 12px;
+  height: 12px;
+}
+
+.img2 {
+  margin-left: 140px;
+}
+
+.btn1 {
+  background-color: #6F73EE !important;
+  border-radius: 5px;
+  border: 1.5px;
+  width: 114px;
+}
+
+.input1 {
+  border: none;
+  width: 350px;
+  height: 40px;
+}
+
+label {
+  border: 1.5px solid #6F73EE;
+  border-radius: 5px;
+}
+
+.btn2 {
+  background-color: #6F73EE !important;
+}
+
+.btn3 {
+  background-color: #6F73EE !important;
+  border-radius: 30px;
+}
+
+.btn4 {
+  background-color: #6F73EE !important;
+  border-radius: 50%;
+}
+
+.row1 {
+  background-color: #F4F7FB;
+}
+
+.sec {
+  background: radial-gradient(58.73% 541.94% at 75.14% 62.23%, #A6A9FF 0%, #6F73EE 100%);
+}
+
+.btn6 {
+  color: #6F73EE !important;
+}
+
+.imh {
+  width: 26px;
+  height: 26px;
+}
+
+.ghk {
+  width: 538px;
+  height: 405px;
+}
+
+.mb {
+  width: 20px;
+  height: 20px;
+}
+
+.ji {
+  background-color: #FC3F1D;
+  border-radius: 5px;
+}
+
+.ko {
+  width: 30px;
+  height: 30px;
+  angle: 0deg;
+  opacity: 1;
+  top: 706px;
+  left: 1169px;
+}
+
+.btn000 {
+  background: #F4F7FB;
+  border-radius: 5px;
+}
+
+.btn000:hover {
+  border: 1px solid #6F73EE;
+  color: #6F73EE;
+  opacity: 1;
+}
+
+.nh {
+  background-color: #EE685F !important;
+}
+
+.mk {
+  margin-left: 150px;
+  width: 20px;
+  height: 20px;
+}
+
+.lol {
+  border-radius: 5px;
+  border: 10px solid white;
+  //background-image: url("https://best-magazin.com/image/cache/catalog/Kugoo/m4%20pro/6V7A6493-800x800.jpg");
+  //background-size: cover;
+  //background-repeat: no-repeat;
+  //background-attachment: fixed;
+}
+
+.ky {
+  height: 231px;
+}
+
+.mt {
+  margin-top: 100px;
+}
+
+.product-card {
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  transition: 0.3s;
+  background: #fff;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-img {
+  position: relative;
+  background: #f8f8f8;
+  text-align: center;
+  padding: 15px;
+}
+
+.badge-top {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: #ff6b6b;
+  color: white;
+  font-weight: 600;
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+.badge-new {
+  background: #28a745;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #4B0082;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #aaa;
+  font-size: 0.9rem;
+}
+
+.btn-buy {
+  background-color: #7B68EE;
+  color: white;
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+.btn-buy:hover {
+  background-color: #6A5ACD;
+  color: white;
+}
+
+.na {
+  color: #6F73EE !important;
+}
+
+.sec24 {
+  background: radial-gradient(76.7% 707.77% at 23.3% 72.57%, #595959 0%, #3B3E46 100%)
+}
+
+.opi {
+  background-color: Orange !important;
+}
+
+.loi {
+  background: #F4F7FB;
+}
+
+.h4 {
+  color: #6F73EE;
+}
+
+.product-card {
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.product-card:hover {
+  transform: scale(1.03);
+}
+
+.product-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  padding: 15px;
+}
+
+.overlay h5 {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.overlay p {
+  font-size: 0.9rem;
+  margin: 0;
+  color: #ddd;
+}
+
+.btn9 {
+  border: 1px solid Purple !important;
+  color: Purple !important;
+}
+
+.byt {
+  color: #6F73EE;
+}
+
+.col11 {
+  background-color: #F4F7FB !important;
+}
+
+.bqa {
+  border: 1.3px solid #6F73EE !important;
+  color: #6F73EE !important;
+}
+
+.bgi {
+  background-color: #F4F7FB !important;
+}
+
+.ikj {
+  border-radius: 10px;
+  border: 1px solid #EAEBED;
+}
+
+.ikj1 {
+  border-radius: 10px;
+  border: 1px solid #EAEBED;
+  margin-left: 150px !important;
+}
+
+.tyu {
+  width: 25px;
+  height: 25px;
+}
+
+.span {
+  color: #6F73EE;
+}
+
+.lat {
+  border-radius: 10px;
+  border: 1px solid #EAEBED;
+  background-color: #F4F7FB;
+}
+
+.sra {
+  color: #6F73EE;
+}
+
+.container-fluid23 {
+  height: 700px;
+  background-image: url("https://kubnews.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/d6b/1200_800_2/esq617ezw1aj77deg182q3qr4bcc3m6f.webp");
+  background-size: cover;
+}
+
+.image10 {
+  width: 136px;
+  height: 136px;
+  margin-top: 250px !important;
+}
+
+.bhf {
+  border-bottom: 1px solid #EAEBED;
+}
+
+.kiy {
+  width: 20px;
+  height: 20px;
+
+}
+
+.qwe {
+  width: 18px !important;
+  height: 18px !important;
+
+}
+
+.try {
+  background-color: #6F73EE;
+}
+
+.qas {
+  background-color: #FFFFFF33 !important;
+  width: 410px !important;
+  height: 53px !important;
+  border-radius: 5px;
+}
+
+.ghr {
+  color: #6F73EE !important;
+  height: 50px !important;
+}
+
+.rew {
+  margin-left: 90px !important;
+}
+
+.ppp {
+  color: #6F73EE;
+}
+
+.mh {
+  width: 151px;
+  height: 45px;
+}
+
+.insta {
+  width: 123px;
+  height: 45px;
+}
+
+.visa {
+  width: 34px;
+  height: 23px;
+}
+
+.klj {
+  width: 16px;
+  height: 16px;
+}
